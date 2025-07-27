@@ -54,6 +54,4 @@ All data is located in the `data/` directory.
 
 ---
 
-## ▶️ How to Run
-
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/krishang-parakh/from-pitch-to-payout/blob/main/From_Pitch_to_Payout.ipynb)
