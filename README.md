@@ -1,4 +1,4 @@
-# 🦈 From Pitch to Payout – Shark Tank Investment Analytics
+# 🦈 From Pitch to Payout – Shark Tank Investment Analytics [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/krishang-parakh/from-pitch-to-payout/blob/main/From_Pitch_to_Payout.ipynb)
 
 Uncover the secrets of successful pitches from the hit TV show *Shark Tank US*. This project analyzes investor behavior, business trends, and pitch outcomes to identify what really drives funding decisions.
 
@@ -51,7 +51,3 @@ All data is located in the `data/` directory.
 - **Female entrepreneurs** secured fewer deals, highlighting bias
 - Pitches offering **20–30% equity** struck the best balance
 - **Mark Cuban** showed more interest in tech-forward ventures
-
----
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/krishang-parakh/from-pitch-to-payout/blob/main/From_Pitch_to_Payout.ipynb)
